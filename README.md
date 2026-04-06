@@ -119,6 +119,21 @@ Tools and resources for English ↔ Hebrew translation
 
 ---
 
+## Hugging Face Collections
+
+Curated Hugging Face collections grouping Hebrew AI resources by task.
+
+- [Hebrew Large Language Models](https://huggingface.co/collections/danielrosehill/hebrew-large-language-models)
+- [Hebrew ASR](https://huggingface.co/collections/danielrosehill/hebrew-asr)
+- [Hebrew TTS](https://huggingface.co/collections/danielrosehill/hebrew-tts)
+- [Whisper Hebrish](https://huggingface.co/collections/danielrosehill/whisper-hebrish)
+- [Hebrew Punctuation Restoration](https://huggingface.co/collections/danielrosehill/hebrew-puncutation-restoration)
+- [Hebrew Sentiment Classification Models](https://huggingface.co/collections/danielrosehill/hebrew-sentiment-classification-models)
+- [Hebrew Datasets](https://huggingface.co/collections/danielrosehill/hebrew-datasets)
+- [Hebrew AI Spaces](https://huggingface.co/collections/danielrosehill/hebrew-ai-spaces)
+
+---
+
 ## License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
