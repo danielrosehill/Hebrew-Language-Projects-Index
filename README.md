@@ -49,6 +49,12 @@ Personal dashboard for Hebrew language tools and resources
 
 ## Fonts
 
+### Awesome Hebrew Fonts
+
+Curated point-in-time list of great Hebrew fonts on Google Fonts, with a JSON-driven installer (CLI + GUI) and live HTML samples.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Hebrew-Fonts)
+
 ### Google Fonts Hebrew Downloader
 
 Utility for downloading Hebrew fonts from Google Fonts
