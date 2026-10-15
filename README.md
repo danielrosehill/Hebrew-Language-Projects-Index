@@ -4,13 +4,14 @@
 
 An index of projects, utilities, and resources for working with the Hebrew language — covering translation, text-to-speech, language models, fonts, calendar tools, and Paleo Hebrew.
 
-**Last Updated:** April 2026
+**Last Updated:** October 2026
 
 ---
 
 ## Table of Contents
 
 - [Calendar & Dates](#calendar--dates)
+- [Code-Switching & Speech Recognition](#code-switching--speech-recognition)
 - [Dashboards](#dashboards)
 - [Fonts](#fonts)
 - [Image Generation](#image-generation)
@@ -34,6 +35,16 @@ Resources and utilities relating to the Hebrew calendar
 KDE Plasma widget for displaying the current Hebrew date
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-Date-KDE-Widget)
+
+---
+
+## Code-Switching & Speech Recognition
+
+### English-Hebrew Code-Switching Index
+
+Index of ASR fine-tunes, audio and text datasets, a Hebrew-in-Latin token classifier and Spaces for English speech containing Hebrew words — the way English-speaking olim and diaspora Jews actually talk.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/English-Hebrew-Code-Switching-Index)
 
 ---
 
@@ -133,6 +144,7 @@ Curated Hugging Face collections grouping Hebrew AI resources by task.
 - [Hebrew ASR](https://huggingface.co/collections/danielrosehill/hebrew-asr)
 - [Hebrew TTS](https://huggingface.co/collections/danielrosehill/hebrew-tts)
 - [Whisper Hebrish](https://huggingface.co/collections/danielrosehill/whisper-hebrish)
+- [Code Switching (English And Hebrew)](https://huggingface.co/collections/danielrosehill/code-switching-english-and-hebrew-6acfdcb1e11911797af4c3b3)
 - [Hebrew Punctuation Restoration](https://huggingface.co/collections/danielrosehill/hebrew-puncutation-restoration)
 - [Hebrew Sentiment Classification Models](https://huggingface.co/collections/danielrosehill/hebrew-sentiment-classification-models)
 - [Hebrew Datasets](https://huggingface.co/collections/danielrosehill/hebrew-datasets)
