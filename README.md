@@ -30,14 +30,6 @@ Resources and utilities relating to the Hebrew calendar
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-Calendar-Resources)
 
-### Hebrew Date KDE Widget
-
-KDE Plasma widget for displaying the current Hebrew date
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-Date-KDE-Widget)
-
----
-
 ## Code-Switching & Speech Recognition
 
 ### English-Hebrew Code-Switching Index
@@ -71,14 +63,6 @@ Curated point-in-time list of great Hebrew fonts on Google Fonts, with a JSON-dr
 Utility for downloading Hebrew fonts from Google Fonts
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Google-Fonts-Hebrew-Downloader)
-
-### Nice Hebrew Fonts
-
-Curated collection of high-quality Hebrew fonts
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Nice-Hebrew-Fonts)
-
----
 
 ## Image Generation
 
